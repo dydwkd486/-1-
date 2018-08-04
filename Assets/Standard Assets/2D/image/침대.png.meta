@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 41bfef6e3a31d36488b1fcb0330b6970
+timeCreated: 1497420496
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\uCE68\uB300_0"
+    21300002: "\uCE68\uB300_1"
+    21300004: "\uCE68\uB300_2"
+    21300006: "\uCE68\uB300_3"
+    21300008: "\uCE68\uB300_4"
+    21300010: "\uCE68\uB300_5"
+    21300012: "\uCE68\uB300_6"
+    21300014: "\uCE68\uB300_7"
+    21300016: "\uCE68\uB300_8"
+    21300018: "\uCE68\uB300_9"
+    21300020: "\uCE68\uB300_10"
+    21300022: "\uCE68\uB300_11"
+    21300024: "\uCE68\uB300_12"
+    21300026: "\uCE68\uB300_13"
+    21300028: "\uCE68\uB300_14"
+    21300030: "\uCE68\uB300_15"
+    21300032: "\uCE68\uB300_16"
+    21300034: "\uCE68\uB300_17"
+    21300036: "\uCE68\uB300_18"
+    21300038: "\uCE68\uB300_19"
+    21300040: "\uCE68\uB300_20"
+    21300042: "\uCE68\uB300_21"
+    21300044: "\uCE68\uB300_22"
+    21300046: "\uCE68\uB300_23"
+    21300048: "\uCE68\uB300_24"
+    21300050: "\uCE68\uB300_25"
+    21300052: "\uCE68\uB300_26"
+    21300054: "\uCE68\uB300_27"
+    21300056: "\uCE68\uB300_28"
+    21300058: "\uCE68\uB300_29"
+    21300060: "\uCE68\uB300_30"
+    21300062: "\uCE68\uB300_31"
+    21300064: "\uCE68\uB300_32"
+    21300066: "\uCE68\uB300_33"
+    21300068: "\uCE68\uB300_34"
+    21300070: "\uCE68\uB300_35"
+    21300072: "\uCE68\uB300_36"
+    21300074: "\uCE68\uB300_37"
+    21300076: "\uCE68\uB300_38"
+    21300078: "\uCE68\uB300_39"
+    21300080: "\uCE68\uB300_40"
+    21300082: "\uCE68\uB300_41"
+    21300084: "\uCE68\uB300_42"
+    21300086: "\uCE68\uB300_43"
+    21300088: "\uCE68\uB300_44"
+    21300090: "\uCE68\uB300_45"
+    21300092: "\uCE68\uB300_46"
+    21300094: "\uCE68\uB300_47"
+    21300096: "\uCE68\uB300_48"
+    21300098: "\uCE68\uB300_49"
+    21300100: "\uCE68\uB300_50"
+    21300102: "\uCE68\uB300_51"
+    21300104: "\uCE68\uB300_52"
+    21300106: "\uCE68\uB300_53"
+    21300108: "\uCE68\uB300_54"
+    21300110: "\uCE68\uB300_55"
+    21300112: "\uCE68\uB300_56"
+    21300114: "\uCE68\uB300_57"
+    21300116: "\uCE68\uB300_58"
+    21300118: "\uCE68\uB300_59"
+    21300120: "\uCE68\uB300_60"
+    21300122: "\uCE68\uB300_61"
+    21300124: "\uCE68\uB300_62"
+    21300126: "\uCE68\uB300_63"
+    21300128: "\uCE68\uB300_64"
+    21300130: "\uCE68\uB300_65"
+    21300132: "\uCE68\uB300_66"
+    21300134: "\uCE68\uB300_67"
+    21300136: "\uCE68\uB300_68"
+    21300138: "\uCE68\uB300_69"
+    21300140: "\uCE68\uB300_70"
+    21300142: "\uCE68\uB300_71"
+    21300144: "\uCE68\uB300_72"
+    21300146: "\uCE68\uB300_73"
+    21300148: "\uCE68\uB300_74"
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\uCE68\uB300_0"
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 448
+        width: 134
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_1"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_2"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 450
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_3"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 450
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_4"
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 450
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_5"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 450
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_6"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 481
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_7"
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 488
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_8"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 483
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_9"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 483
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_10"
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 449
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_11"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 454
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_12"
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 458
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_13"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 462
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_14"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 453
+        width: 18
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_15"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 452
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_16"
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 423
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_17"
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 384
+        width: 150
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_18"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_19"
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 351
+        width: 263
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_20"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 387
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_21"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_22"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 320
+        width: 142
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_23"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_24"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_25"
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 298
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_26"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 298
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_27"
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 303
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_28"
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 303
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_29"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 325
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_30"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_31"
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 313
+        width: 55
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 128
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_33"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 301
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_34"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 223
+        width: 94
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_35"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 238
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_36"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 258
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_37"
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 179
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_38"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 233
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_39"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_40"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_41"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 164
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_42"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 164
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_43"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_44"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 179
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_45"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 181
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_46"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_47"
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 128
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_48"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 128
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_49"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_50"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 135
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_51"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 131
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_52"
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 70
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_53"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 72
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_54"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 72
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_55"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_56"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 105
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_57"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_58"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 98
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_59"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 98
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_60"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 103
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_61"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 64
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_62"
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 11
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_63"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 66
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_64"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 71
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_65"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_66"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 14
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_67"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 14
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_68"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_69"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_70"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_71"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_72"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_73"
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 15
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\uCE68\uB300_74"
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 15
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
